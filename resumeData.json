@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"Jacky Tsang"
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Hong Kong Insttute Vocatonal Educaton (Chai Wan)",
+        "degree":"Higher Diploma in System Development and Administraton",
+        "graduated":"2009 - 2013"
+      },
+      {
+        "school":"Toi Shan Associaton College (F.1 – 5)",
+        "degree":"2009 Hong Kong Certicate of Educaton Examinaton",
+        "graduated":"2004 - 2009"
+      }
+    ],
+    "work":[
+      {
+        "company":"Media Explorer Limited",
+        "title":"Front-end Web Developer",
+        "years":"March 2017 - Present",
+        "duties": [
+            "Work with design team to create responsive website (HTML/CSS/JS/jQuery/Bootstrap)",
+            "Front-end API integraton or CMS / web (Thymelea , Angular JS, Vue JS)",
+            "Third-party API integraton or website (Cinema, Parking system, HKO, Social Media)",
+            "Work with Back-end team (Java Spring) or website development",
+            "Content management system develop & maintenance",
+            "Version control through GIT & Source tree"
+        ]
+      },
+      {
+        "company":"Innovato Limited (3up-design Limited)",
+        "title":"Web Developer",
+        "years":"March 2015 - February 2017",
+        "duties": [
+            "Create website layout draf (Photoshop, Theme orest)",
+            "Create responsive website (PHP/HTML/CSS/JS/jQuery/Bootstrap)",
+            "Tailor made content management system (PHP)"
+        ]
+      },
+      {
+        "company":"Tech Consultng (Hong Kong) Limited",
+        "title":"I.T. Consultant Officer",
+        "years":"March 2013 - February 2015",
+        "duties": [
+            "Providing help-desk support, on-site training & support (Catering system, POS system, ERP & Atendance system)",
+            "Fast Report template design (SO, Invoice, Delivery Note)",
+            "Website administraton & design – E-shop (Ubercart)"
+        ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Documentaton",
+        "desc":"Microsoft office, Open / Libre / WPS office"
+      },
+      {
+        "name":"Tools",
+        "desc":"VS Code, IntelliJ IDEA, Notepad++"
+      },
+      {
+        "name":"Git",
+        "desc":"Github, Source Tree"
+      },
+      {
+        "name":"Frontend",
+        "desc":"Thymeleaf, Angular JS, Vue JS, JavaScript, jQuery"
+      },
+      {
+        "name":"Web",
+        "desc":"PHP, HTML, CSS, XML, JSON, AJAX, AXIOS"
+      },
+      {
+        "name":"Programming",
+        "desc":"C#"
+      },
+      {
+        "name":"Database",
+        "desc":"MySQL"
+      },
+      {
+        "name":"Multimedia Design",
+        "desc":"Adobe Photoshop, Flash"
+      },
+      {
+        "name":"Others",
+        "desc":"Open source forum (Discuz!, phpBB)"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"V Walk",
+        "image":"work-vwalk.png",
+        "url":"https://www.vwalk.com.hk/"
+      },
+      {
+        "title":"Octopus",
+        "image":"work-octopus.png",
+        "url":"https://www.octopus.com.hk/"
+      },
+      {
+        "title":"HKTDC Design Gallery",
+        "image":"work-hktdcdg.png",
+        "url":"https://hkdesigngallery.hktdc.com/"
+      },
+      {
+        "title":"Orix",
+        "image":"work-orix.png",
+        "url":"https://www.orix.com.hk/"
+      },
+      {
+        "title":"HLD",
+        "image":"work-hld.png",
+        "url":"https://www.hld.com"
+      },
+      {
+        "title":"Maritime Square - MTR Malls",
+        "image":"work-ms.png",
+        "url":"https://www.maritimesquare.com/"
+      },
+      {
+        "title":"HKGBC",
+        "image":"work-hkgbc.png",
+        "url":"https://www.hkgbc.org.hk/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

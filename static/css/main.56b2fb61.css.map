@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,GAAK,eAAiB,CACtB,MAAQ,gBAAkB","file":"static/css/main.56b2fb61.css","sourcesContent":["ul { list-style: disc; }\r\nul li { margin-left: 15px; }\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
