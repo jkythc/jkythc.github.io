@@ -22,9 +22,9 @@
         "years":"March 2017 - Present",
         "duties": [
             "Work with design team to create responsive website (HTML/CSS/JS/jQuery/Bootstrap)",
-            "Front-end API integraton for CMS / web (Thymelea , Angular JS, Vue JS)",
+            "Front-end API integraton for CMS / web (Thymelea , Angular JS, Vue JS, React JS)",
             "Third-party API integraton for website (Cinema, Parking system, HKO, Social Media)",
-            "Work with Back-end team (Java Spring) for website development",
+            "Work with Back-end team (Java/Kotlin) for website development",
             "Content management system develop & maintenance",
             "Version control through GIT & Source tree"
         ]
@@ -65,11 +65,11 @@
       },
       {
         "name":"Frontend",
-        "desc":"Thymeleaf, Angular JS, Vue JS, JavaScript, jQuery"
+        "desc":"Thymeleaf, Angular JS, Vue JS, React JS, jQuery"
       },
       {
         "name":"Web",
-        "desc":"PHP, HTML, CSS, XML, JSON, AJAX, AXIOS"
+        "desc":"PHP, HTML, CSS, XML, JavaScript, JSON, AJAX, AXIOS"
       },
       {
         "name":"Programming",
