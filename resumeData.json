@@ -6,12 +6,12 @@
     "education":[
       {
         "school":"Hong Kong Institute Vocational Education (Chai Wan)",
-        "degree":"Higher Diploma in System Development and Administraton",
+        "degree":"Higher Diploma in System Development and Administration",
         "graduated":"2009 - 2013"
       },
       {
         "school":"Toi Shan Association College (F.1 – 5)",
-        "degree":"2009 Hong Kong Certicate of Educaton Examinaton",
+        "degree":"2009 Hong Kong Certificate of Education Examination",
         "graduated":"2004 - 2009"
       }
     ],
@@ -22,7 +22,7 @@
         "years":"March 2017 - Present",
         "duties": [
             "Work with design team to create responsive website (HTML/CSS/JS/jQuery/Bootstrap)",
-            "Front-end API integraton for CMS / web (Thymelea , Angular JS, Vue JS, React JS)",
+            "Front-end API integraton for CMS / web (Thymeleaf , Angular JS, Vue JS, React JS)",
             "Third-party API integraton for website (Cinema, Parking system, HKO, Social Media)",
             "Work with Back-end team (Java/Kotlin) for website development",
             "Content management system develop & maintenance",
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "company":"Innovato Limited (3up-design Limited)",
+        "company":"Innovatio Limited (3up-design Limited)",
         "title":"Web Developer",
         "years":"March 2015 - February 2017",
         "duties": [
@@ -40,13 +40,13 @@
         ]
       },
       {
-        "company":"Tech Consultng (Hong Kong) Limited",
+        "company":"Tech Consulting (Hong Kong) Limited",
         "title":"I.T. Consultant Officer",
         "years":"March 2013 - February 2015",
         "duties": [
             "Providing help-desk support, on-site training & support (Catering system, POS system, ERP & Atendance system)",
             "Fast Report template design (SO, Invoice, Delivery Note)",
-            "Website administraton & design – E-shop (Ubercart)"
+            "Website administration & design – E-shop (Ubercart)"
         ]
       }
     ],
