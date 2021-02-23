@@ -5,33 +5,41 @@
   "resume":{
     "education":[
       {
-        "school":"Hong Kong Institute Vocational Education (Chai Wan)",
-        "degree":"Higher Diploma in System Development and Administration",
+        "school":"Hong Kong Insttute Vocatonal Educaton (Chai Wan)",
+        "degree":"Higher Diploma in System Development and Administraton",
         "graduated":"2009 - 2013"
       },
       {
-        "school":"Toi Shan Association College (F.1 – 5)",
-        "degree":"2009 Hong Kong Certificate of Education Examination",
+        "school":"Toi Shan Associaton College (F.1 – 5)",
+        "degree":"2009 Hong Kong Certicate of Educaton Examinaton",
         "graduated":"2004 - 2009"
       }
     ],
     "work":[
       {
+        "company":"ESD Services Limited (ESDlife)",
+        "title":"Senior Front-end Developer",
+        "years":"December 2020 - February 2021",
+        "duties": [
+            "Watsons online shop (ELab) maintenance"
+        ]
+      },
+      {
         "company":"Media Explorer Limited",
         "title":"Senior Front-end Web Developer",
-        "years":"March 2017 - Present",
+        "years":"March 2017 - December 2020",
         "duties": [
             "Work with design team to create responsive website (HTML/CSS/JS/jQuery/Bootstrap)",
-            "Front-end API integraton for CMS / web (Thymeleaf , Angular JS, Vue JS, React JS)",
+            "Front-end API integraton for CMS / web (Thymelea , Angular JS, Vue JS)",
             "Third-party API integraton for website (Cinema, Parking system, HKO, Social Media)",
-            "Work with Back-end team (Java/Kotlin) for website development",
+            "Work with Back-end team (Java Spring) for website development",
             "Content management system develop & maintenance",
             "Version control through GIT & Source tree"
         ]
       },
       {
-        "company":"Innovatio Limited (3up-design Limited)",
-        "title":"Senior Web Developer & Designer",
+        "company":"Innovato Limited (3up-design Limited)",
+        "title":"Web Developer",
         "years":"March 2015 - February 2017",
         "duties": [
             "Create website layout draft (Photoshop, Themeforest)",
@@ -40,13 +48,13 @@
         ]
       },
       {
-        "company":"Tech Consulting (Hong Kong) Limited",
+        "company":"Tech Consultng (Hong Kong) Limited",
         "title":"I.T. Consultant Officer",
         "years":"March 2013 - February 2015",
         "duties": [
             "Providing help-desk support, on-site training & support (Catering system, POS system, ERP & Atendance system)",
             "Fast Report template design (SO, Invoice, Delivery Note)",
-            "Website administration & design – E-shop (Ubercart)"
+            "Website administraton & design – E-shop (Ubercart)"
         ]
       }
     ],
@@ -65,11 +73,11 @@
       },
       {
         "name":"Frontend",
-        "desc":"Thymeleaf, Angular JS, Vue JS, React JS, jQuery"
+        "desc":"Thymeleaf, Angular JS, Vue JS, JavaScript, jQuery"
       },
       {
         "name":"Web",
-        "desc":"PHP, HTML, CSS, XML, JavaScript, JSON, AJAX, AXIOS"
+        "desc":"PHP, HTML, CSS, XML, JSON, AJAX, AXIOS"
       },
       {
         "name":"Programming",
